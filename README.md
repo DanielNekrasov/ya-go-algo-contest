@@ -1,0 +1,1 @@
+# ya-go-algo-contest
